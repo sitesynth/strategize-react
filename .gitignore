@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+# regenerable migrator intermediates (large)
+src/capture-tree.json
+src/ir.json
+.vercel
+# regenerable migrator input captured from the original site
+src/computed-styles*.json

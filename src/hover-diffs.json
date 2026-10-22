@@ -1,0 +1,99 @@
+{
+ "framer-FTL9u framer-mYoyz framer-np5wm0 framer-v-yhtvqu framer-yhtvqu|": [
+  {
+   "k": "",
+   "props": {
+    "--border-color": "var(--token-88a2fb5a-6957-4fe0-8892-b82651f9c316, rgb(250, 130, 55))",
+    "background-color": "var(--token-059258a3-cc14-4233-9597-2ccc4c22a2cb, rgb(246, 110, 96))"
+   }
+  },
+  {
+   "k": "framer-1nls4qz#0",
+   "props": {
+    "transform": "translateX(-50%)"
+   }
+  },
+  {
+   "k": "framer-1odglgc#0",
+   "props": {
+    "--extracted-r6o4lv": "var(--token-b0658149-b617-4084-bcc1-ec48b8c7479e, rgb(255, 240, 212))"
+   }
+  },
+  {
+   "k": "framer-styles-preset-17wfnj4 framer-text#1",
+   "props": {
+    "--framer-text-color": "var(--extracted-r6o4lv, var(--token-b0658149-b617-4084-bcc1-ec48b8c7479e, rgb(255, 240, 212)))"
+   }
+  }
+ ],
+ "framer-FTL9u framer-mYoyz framer-np5wm0 framer-v-1okwre4 framer-yhtvqu|Secondary": [
+  {
+   "k": "",
+   "props": {
+    "--border-color": "var(--token-059258a3-cc14-4233-9597-2ccc4c22a2cb, rgb(255, 78, 59))",
+    "background-color": "var(--token-88a2fb5a-6957-4fe0-8892-b82651f9c316, rgb(250, 145, 80))"
+   }
+  },
+  {
+   "k": "framer-1nls4qz#0",
+   "props": {
+    "transform": "translateX(-50%)"
+   }
+  },
+  {
+   "k": "framer-1odglgc#0",
+   "props": {
+    "--extracted-r6o4lv": "var(--token-b0658149-b617-4084-bcc1-ec48b8c7479e, rgb(255, 240, 212))",
+    "transform": null
+   }
+  },
+  {
+   "k": "framer-styles-preset-17wfnj4 framer-text#1",
+   "props": {
+    "--framer-text-color": "var(--extracted-r6o4lv, var(--token-b0658149-b617-4084-bcc1-ec48b8c7479e, rgb(255, 240, 212)))"
+   }
+  }
+ ],
+ "framer-15uacw7 framer-Ik0lX framer-e5i6dj framer-v-15uacw7|Primary": [
+  {
+   "k": "",
+   "props": {
+    "transform": "rotate(-9deg)"
+   }
+  },
+  {
+   "k": "framer-a6jtou#0",
+   "props": {
+    "background-color": "var(--token-7e403d1b-8356-4486-851c-fab4a8a8c977, rgb(245, 109, 95))"
+   }
+  }
+ ],
+ "framer-FTL9u framer-mYoyz framer-np5wm0 framer-v-yhtvqu framer-yhtvqu|Primary": [
+  {
+   "k": "",
+   "props": {
+    "--border-color": "var(--token-88a2fb5a-6957-4fe0-8892-b82651f9c316, rgb(250, 130, 55))",
+    "background-color": "var(--token-059258a3-cc14-4233-9597-2ccc4c22a2cb, rgb(246, 110, 96))"
+   }
+  },
+  {
+   "k": "framer-1nls4qz#0",
+   "props": {
+    "transform": "translateX(-50%)"
+   }
+  },
+  {
+   "k": "framer-1odglgc#0",
+   "props": {
+    "--extracted-r6o4lv": "var(--token-b0658149-b617-4084-bcc1-ec48b8c7479e, rgb(255, 240, 212))",
+    "transform": null
+   }
+  },
+  {
+   "k": "framer-styles-preset-17wfnj4 framer-text#1",
+   "props": {
+    "--framer-text-color": "var(--extracted-r6o4lv, var(--token-b0658149-b617-4084-bcc1-ec48b8c7479e, rgb(255, 240, 212)))"
+   }
+  }
+ ]
+}
